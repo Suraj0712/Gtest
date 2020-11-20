@@ -16,7 +16,7 @@ $ sudo cp *.a /usr/lib
 ## Testing file structure  
 
 Project_folder 
-
+```
 ├── CMakeLists.txt 
 ├── include 
 │   └── declaration.hpp 
@@ -26,7 +26,7 @@ Project_folder
 ├── README.MD
 └── test 
     └── test.cpp 
-
+```
  
 ## Building the project and execution 
 ```
